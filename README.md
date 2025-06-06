@@ -1,5 +1,4 @@
 # llm-sf-eval-profile
-[![DOI](https://zenodo.org/badge/993305514.svg)](https://doi.org/10.5281/zenodo.15556521)
 
 This repository contains a set of Jupyter notebooks for analyzing evaluation patterns of various Large Language Models (LLMs) on science fiction short stories. The analyses cover score normalization, clustering, statistical testing, and keyword extraction from model comments.
 
